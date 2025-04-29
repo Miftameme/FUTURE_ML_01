@@ -51,10 +51,10 @@ To forecast monthly sales for the product line **Classic Cars** using Prophet wi
 
  3. Actual vs Predicted Comparison  
 ![Actual vs Predicted](Visualization/actual_vs_predicted.png)
+ 4. Interactive Forecast Plot 
+![Interactive Forecast Plot](Visualization/interactive_forecast_plot.png)
 
-4.Interactive Forecast Plot
-![Interactive Forecast Plot](Visualization/Interactive Forecast Plot.mp4)
----
+
 ## 🔧 Future Improvements
 
 While this project successfully forecasts future sales using Prophet, the following improvements could further enhance the model’s performance and business value:
