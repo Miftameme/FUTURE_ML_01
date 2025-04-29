@@ -15,6 +15,7 @@ To forecast monthly sales for the product line **Classic Cars** using Prophet wi
 ---
 
  🛠 Tools Used
+ -Kaggle
 - Python
 - Pandas, Seaborn, Matplotlib
 - Prophet (Facebook)
@@ -52,7 +53,21 @@ To forecast monthly sales for the product line **Classic Cars** using Prophet wi
 ![Actual vs Predicted](actual_vs_predicted.png)
 
 ---
+## 🔧 Future Improvements
 
+While this project successfully forecasts future sales using Prophet, the following improvements could further enhance the model’s performance and business value:
+
+- **Add More Regressors:** Include external features like marketing campaigns, holidays, or pricing changes as additional regressors in the model.
+- **Train on Multiple Product Lines Simultaneously:** Loop through all `ProductLine` categories and forecast for each to build a complete retail forecasting system.
+- **Switch to Daily Forecasting:** Use daily-level forecasts for shorter-term operational planning (e.g., delivery logistics, warehouse stocking).
+- **Hyperparameter Tuning:** Experiment with Prophet’s changepoint parameters, seasonality scale, and holidays for better accuracy.
+- **Use Advanced ML Models for Comparison:** Test other models like ARIMA, SARIMA, or LSTM to benchmark performance against Prophet.
+- **Deploy as a Web Dashboard:** Create a real-time dashboard using Streamlit or Gradio to let users select categories and visualize forecasts dynamically.
+- **Automate Reporting:** Set up scheduled scripts to re-train the model monthly and email insights to stakeholders automatically.
+
+These steps would turn the current standalone analysis into a fully automated, business-ready forecasting pipeline.
+
+---
  💡 Business Use Case
 
 This forecasting solution helps businesses:
