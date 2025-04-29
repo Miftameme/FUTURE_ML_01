@@ -47,10 +47,10 @@ To forecast monthly sales for the product line **Classic Cars** using Prophet wi
 ![Forecast](Visualization/forecast_plot.png)
 
  2. Trend & Seasonality Components  
-![Components](components_plot.png)
+![Components](Visualization/components_plot.png)
 
  3. Actual vs Predicted Comparison  
-![Actual vs Predicted](actual_vs_predicted.png)
+![Actual vs Predicted](Visualization/actual_vs_predicted.png)
 
 ---
 ## 🔧 Future Improvements
@@ -79,7 +79,7 @@ This forecasting solution helps businesses:
 
 ## 🔗 Useful Links
 
-- 📘 [Kaggle Notebook](INSERT_KAGGLE_NOTEBOOK_LINK_HERE)
+- 📘 [Kaggle Notebook](https://www.kaggle.com/code/miftameme/future-ml-01-salesforecasting)
 - 📣 [LinkedIn Post](INSERT_LINKEDIN_POST_LINK_HERE)
 
 ---
