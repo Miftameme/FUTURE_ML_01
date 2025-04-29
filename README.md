@@ -44,7 +44,7 @@ To forecast monthly sales for the product line **Classic Cars** using Prophet wi
  📸 Visualizations
 
 # 1. Forecast Plot  
-![Forecast](forecast_plot.png)
+![Forecast](Visualization/forecast_plot.png)
 
  2. Trend & Seasonality Components  
 ![Components](components_plot.png)
